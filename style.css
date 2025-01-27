@@ -27,6 +27,10 @@ main{
     margin-inline: -10px;
 }
 
+.clear{
+    clear: both;
+}
+
 .col-3{
     width: 290px;
     float: left;
